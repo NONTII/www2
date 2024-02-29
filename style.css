@@ -2,7 +2,12 @@ body {
     background-color: cadetblue;
 }
 p {
-    width: 200;
-    height: 200;
+    width: 200px;
+    height: 200px;
     background-color: aqua;
+}
+#kontener{
+    background-color: blue;
+    display: flex;
+    justify-content: space-around;
 }
